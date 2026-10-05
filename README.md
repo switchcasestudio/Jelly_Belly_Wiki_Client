@@ -48,9 +48,9 @@ To read more about the data scraping and API back-end and database check out the
 
 This repository, **Jelly_Belly_Wiki_Client**, is part of a larger project that is divided into three main segments:
 
-1. **Jelly Belly Wiki API Data Collection**: [Jelly-Belly-Wiki-API-Data-Collection](https://github.com/Object-ions/Jelly-Belly-Wiki-API-Data-Collection): A repository dedicated to scripts and supporting files for data collection, primarily using Python for web scraping from the official Jelly Belly website.
+1. **Jelly Belly Wiki API Data Collection**: [Jelly-Belly-Wiki-API-Data-Collection](https://github.com/switchcasestudio/Jelly-Belly-Wiki-API-Data-Collection): A repository dedicated to scripts and supporting files for data collection, primarily using Python for web scraping from the official Jelly Belly website.
 
-2. **Jelly-Belly-Wiki-API**: [Jelly-Belly-Wiki-API Repository](https://github.com/Object-ions/Jelly-Belly-Wiki-API): This repository contains the API implementation and the seeded data from the scraping process. The API is built using C# and EF Core .Net with MySql migrations.
+2. **Jelly-Belly-Wiki-API**: [Jelly-Belly-Wiki-API Repository](https://github.com/switchcasestudio/Jelly-Belly-Wiki-API): This repository contains the API implementation and the seeded data from the scraping process. The API is built using C# and EF Core .Net with MySql migrations.
 
 3. **Jelly-Belly-Wiki-Client (This Repository)**: The client-side component focusing on user interface and interaction. It includes all frontend development, offering a visually appealing and demonstrates the API's application and functional user experience.
 
@@ -76,17 +76,17 @@ To set up and run the Jelly Belly Wiki Client locally:
 1. **Clone the Jelly Belly Wiki API repository**:
 
    ```
-   git clone https://github.com/Object-ions/Jelly-Belly-Wiki-API.git
+   git clone https://github.com/switchcasestudio/Jelly-Belly-Wiki-API.git
    ```
 
 2. **Install and Run the API**:
-   Follow the documentation [here](https://github.com/Object-ions/Jelly-Belly-Wiki-API) to install and run the API on your local machine.
+   Follow the documentation [here](https://github.com/switchcasestudio/Jelly-Belly-Wiki-API) to install and run the API on your local machine.
    **Important Note:** Ensure the API and database are set up and running before launching the UI. This is essential to avoid data fetching errors, as the UI relies on the backend for data. The project includes error handling for such scenarios.
 
 3. **Clone This Repository**:
 
    ```
-   git clone https://github.com/Object-ions/Jelly_Belly_Wiki_Client.git
+   git clone https://github.com/switchcasestudio/Jelly_Belly_Wiki_Client.git
    ```
 
 4. **Install Dependencies**:

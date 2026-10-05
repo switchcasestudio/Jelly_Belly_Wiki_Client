@@ -63,7 +63,7 @@ const Footer = () => {
           <h3>Check Out</h3>
           <a
             target="blank"
-            href="https://github.com/Object-ions/Jelly-Belly-Wiki"
+            href="https://github.com/switchcasestudio/Jelly-Belly-Wiki"
           >
             <FontAwesomeIcon
               icon={faGithub}

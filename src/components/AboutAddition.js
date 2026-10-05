@@ -38,7 +38,7 @@ const AboutAdittion = () => {
         <li>
           <strong>1. Web Scraper Repository</strong> (
           <a
-            href="https://github.com/Object-ions/capstone-supporting-files"
+            href="https://github.com/switchcasestudio/capstone-supporting-files"
             target="blank"
           >
             GitHub Repo
@@ -51,7 +51,7 @@ const AboutAdittion = () => {
         <li>
           <strong>2. API Repository</strong> (
           <a
-            href="https://github.com/Object-ions/Jelly-Belly-Wiki-API"
+            href="https://github.com/switchcasestudio/Jelly-Belly-Wiki-API"
             target="blank"
           >
             GitHub Repo
@@ -64,7 +64,7 @@ const AboutAdittion = () => {
         <li>
           <strong>3. UI Repository</strong> (
           <a
-            href="https://github.com/Object-ions/Jelly_Belly_Wiki_Client"
+            href="https://github.com/switchcasestudio/Jelly_Belly_Wiki_Client"
             target="blank"
           >
             GitHub Repo

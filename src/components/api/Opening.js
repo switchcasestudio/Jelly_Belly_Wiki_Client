@@ -12,7 +12,7 @@ const Opening = () => {
       <hr />
       <p>
         By{" "}
-        <a href="https://github.com/Object-ions" target="blank">
+        <a href="https://github.com/switchcasestudio" target="blank">
           Moses Atia Poston
         </a>
       </p>

@@ -56,7 +56,7 @@ const More = () => {
         <li>
           <strong>1. Jelly Belly Wiki API Data Collection</strong> (
           <a
-            href="https://github.com/Object-ions/Jelly-Belly-Wiki-API-Data-Collection"
+            href="https://github.com/switchcasestudio/Jelly-Belly-Wiki-API-Data-Collection"
             target="blank"
           >
             GitHub Repo
@@ -69,7 +69,7 @@ const More = () => {
         <li>
           <strong>2. Jelly Belly Wiki API</strong> (
           <a
-            href="https://github.com/Object-ions/Jelly-Belly-Wiki-API"
+            href="https://github.com/switchcasestudio/Jelly-Belly-Wiki-API"
             target="blank"
           >
             GitHub Repo
@@ -82,7 +82,7 @@ const More = () => {
         <li>
           <strong>3. Jelly Belly Wiki Client</strong> (
           <a
-            href="https://github.com/Object-ions/Jelly_Belly_Wiki_Client"
+            href="https://github.com/switchcasestudio/Jelly_Belly_Wiki_Client"
             target="blank"
           >
             GitHub Repo
@@ -95,7 +95,7 @@ const More = () => {
           You can also check out the main Repository that contain all 3
           submodules in this{' '}
           <a
-            href="https://github.com/Object-ions/Jelly-Belly-Wiki"
+            href="https://github.com/switchcasestudio/Jelly-Belly-Wiki"
             target="blank"
           >
             link

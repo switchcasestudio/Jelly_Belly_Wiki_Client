@@ -66,7 +66,7 @@ const Setup = () => {
           Input the following command into your terminal:
           <pre>
             <code>
-              $ git clone https://github.com/Object-ions/Jelly-Belly-Wiki-API
+              $ git clone https://github.com/switchcasestudio/Jelly-Belly-Wiki-API
             </code>
           </pre>
         </li>
