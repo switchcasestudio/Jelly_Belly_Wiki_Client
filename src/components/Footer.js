@@ -90,7 +90,7 @@ const Footer = () => {
           </a>
         </div>
         <div>
-          <p>Copyright &copy; 2023 All Rights Reserved, Object-ions</p>
+          <p>Copyright &copy; 2023 All Rights Reserved, Switch Case Studio</p>
         </div>
       </div>
     </div>
