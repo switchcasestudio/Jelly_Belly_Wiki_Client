@@ -33,7 +33,7 @@ describe("beansReducer", () => {
   test("should change isLoaded to true and update beans and add an error message", () => {
     const error = "An error";
     action = {
-      type: actionType.GET_BEANS_FAILURE,
+      type: actionType.GET_DATA_FAILURE,
       error,
     };
 
